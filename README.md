@@ -11,7 +11,7 @@
 
 Acreditamos que a paixão por animes e mangás é ainda mais vibrante quando compartilhada. Por isso, o Omine busca integrar-se com as dinâmicas das redes sociais para fomentar a comunidade e a descoberta de novas obras.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 ## Tecnologias Utilizadas
 
