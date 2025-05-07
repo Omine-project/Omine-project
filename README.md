@@ -9,7 +9,7 @@
 * Acompanhar **tops diários e semanais** dos animes e listas mais populares com base nas avaliações dos usuários.
 * **Comentar** e compartilhar suas opiniões sobre cada obra.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maroongold&show_icons=true&bg_color=00000000)
 
 ## Tecnologias Utilizadas
 
