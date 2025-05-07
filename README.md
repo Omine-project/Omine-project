@@ -9,7 +9,9 @@
 * Acompanhar os **tops diários e semanais** dos animes e listas mais populares, com base nas avaliações dos usuários.
 * **Comentar e interagir**, compartilhando suas opiniões e recomendações sobre cada anime e mangá.
 
-![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+Acreditamos que a paixão por animes e mangás é ainda mais vibrante quando compartilhada. Por isso, o Omine busca integrar-se com as dinâmicas das redes sociais para fomentar a comunidade e a descoberta de novas obras.
+
+![Estatísticas do GitHub de denishonorio7](https://github-readme-stats.vercel.app/api?username=denishonorio7&show_icons=true&bg_color=00000000)
 
 ## Tecnologias Utilizadas
 
@@ -41,6 +43,12 @@ O modelo de dados será persistido no **PostgreSQL**, e um diagrama de entidade-
 ## Hospedagem
 
 A hospedagem inicial do projeto será realizada na plataforma **Hostinger**.
+
+## Próximos Passos e Engajamento Social
+
+Embora o Omine esteja em seus estágios iniciais, reconhecemos o poder da comunidade e das redes sociais para o crescimento e o engajamento. Futuramente, planejamos explorar formas de integrar o Omine com outras plataformas, permitindo que os usuários compartilhem suas listas, rankings e descobertas com seus amigos e seguidores.
+
+Fique ligado(a) para futuras atualizações sobre como o Omine se conectará com o mundo social!
 
 ## Contribuições
 
