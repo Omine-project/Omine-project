@@ -21,8 +21,6 @@
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" />
 </div>
 
-# Redes Sociais
-
 <div display="inline">
   https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
