@@ -23,6 +23,8 @@ Acreditamos que a paixão por animes e mangás é ainda mais vibrante quando com
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" />
 </div>
 
+## Redes Sociais
+
 <div display="inline">
     <a href="https://medium.com/@denishonorio7" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Meu perfil no Medium" /></a>
     <a href="mailto:omineproject@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Entre em contato por Gmail" /></a>
