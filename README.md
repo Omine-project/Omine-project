@@ -10,17 +10,7 @@
 * **Comentar** e compartilhar suas opiniões sobre cada obra.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+
 ## Tecnologias Utilizadas
 
 <div display="inline">
@@ -30,7 +20,10 @@
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" />
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" />
 </div>
-
+<div display="inline">
+  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</div>
 ## Arquitetura
 
 Este projeto será desenvolvido utilizando a arquitetura **Domain-Driven Design (DDD)** para garantir uma clara separação de responsabilidades e facilitar a manutenção e escalabilidade. A documentação da arquitetura será criada visualmente com **Draw.io**.
