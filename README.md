@@ -1,40 +1,41 @@
 ### Olá, seja bem-vindo(a) ao Projeto Omine 👋
 
-👿 Omine é um projeto open source dedicado aos otakus e entusiastas da cultura de mangás e animes. Nosso objetivo é criar um espaço onde os usuários possam:
+👿 Omine é um projeto **open source** dedicado aos apaixonados por animes e mangás. Nosso objetivo é criar um espaço completo onde os usuários podem:
 
-* **Classificar** seus animes e mangás favoritos.
-* **Criar listas** públicas e privadas para organizar suas coleções e descobertas.
-* **Explorar rankings** com as listas mais bem avaliadas pela comunidade.
-* **Descobrir** animes e mangás por gênero.
-* Acompanhar **tops diários e semanais** dos animes e listas mais populares com base nas avaliações dos usuários.
-* **Comentar** e compartilhar suas opiniões sobre cada obra.
+* **Classificar** e avaliar seus animes e mangás favoritos.
+* **Criar listas personalizadas**, tanto públicas para compartilhar com a comunidade, quanto privadas para organizar suas próprias coleções e descobertas.
+* **Explorar rankings dinâmicos** com as listas mais bem avaliadas pela comunidade.
+* **Descobrir** novas obras através da navegação por gênero.
+* Acompanhar os **tops diários e semanais** dos animes e listas mais populares, com base nas avaliações dos usuários.
+* **Comentar e interagir**, compartilhando suas opiniões e recomendações sobre cada anime e mangá.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Estatísticas do GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 ## Tecnologias Utilizadas
 
 <div display="inline">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" />
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" />
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" />
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" />
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" title="React" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" />
+    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" title="Git" />
 </div>
 <div display="inline">
-  https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    <a href="https://medium.com/@https://medium.com/@denishonorio7" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" title="Meu perfil no Medium" /></a>
+    <a href="mailto:omineproject@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Entre em contato por Gmail" /></a>
 </div>
+
 ## Arquitetura
 
-Este projeto será desenvolvido utilizando a arquitetura **Domain-Driven Design (DDD)** para garantir uma clara separação de responsabilidades e facilitar a manutenção e escalabilidade. A documentação da arquitetura será criada visualmente com **Draw.io**.
+Este projeto adota a arquitetura **Domain-Driven Design (DDD)**, visando uma organização clara e coesa do código, facilitando a manutenção, a escalabilidade e a colaboração. A representação visual da arquitetura será criada utilizando o **Draw.io**.
 
 ## Documentação do Código
 
-A documentação do código será realizada através de **testes unitários**, garantindo a clareza do comportamento de cada componente e facilitando a compreensão para futuros colaboradores.
+A clareza e a confiabilidade do código serão garantidas através da implementação de **testes unitários**, que servirão também como documentação viva do comportamento de cada componente.
 
 ## Banco de Dados
 
-O modelo de dados será implementado no **PostgreSQL**, e os diagramas de relacionamento entre as tabelas serão criados para visualizar a estrutura do banco de dados.
+O modelo de dados será persistido no **PostgreSQL**, e um diagrama de entidade-relacionamento (DER) será elaborado para visualizar a estrutura e as relações entre as tabelas.
 
 ## Hospedagem
 
@@ -42,4 +43,4 @@ A hospedagem inicial do projeto será realizada na plataforma **Hostinger**.
 
 ## Contribuições
 
-Este é um projeto **open source** e ficaremos muito felizes em receber contribuições da comunidade! Se você tem interesse em colaborar, fique atento(a) às próximas atualizações e às guidelines de contribuição que serão adicionadas a este README.
+Este é um projeto **open source** e toda contribuição é bem-vinda! Se você tem interesse em colaborar, fique atento(a) às futuras atualizações deste README com as diretrizes de contribuição. Juntos, podemos construir uma plataforma incrível para a comunidade otaku!
